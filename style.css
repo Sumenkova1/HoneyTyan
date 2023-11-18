@@ -1,0 +1,100 @@
+body {
+    background-color: #ffe6e9;
+    font-family: cursive;
+}
+
+header img {
+    border: 2px dashed MistyRose;
+    border-radius: 50px;
+}
+
+header h1 {
+color: MistyRose;
+}
+
+header {
+     background-color: #BC8F8F;
+    padding: 20px;
+    border-radius: 10px;
+    border-left: 8px solid LightPink;
+    border-right: 8px solid LightPink;
+}
+
+header p {
+    padding: 20px;
+    background-color:#a97070;
+    border-left: 3px solid LightPink;
+    border-right: 3px solid LightPink;
+    color: #ecbfbf;
+    border-radius:8px;
+}
+
+main {
+    text-align: center;
+    background-color: white;
+}
+h6 {
+    background-color:#fff0f1;
+    padding:10px;
+    border-radius: 15px;
+    border-left: 3px solid Pink;
+    border-right: 3px solid Pink;
+    border-top: 2px dashed Pink;
+    border-bottom: 2px dashed Pink;
+    margin-left: 250px;
+     margin-right: 250px;
+}
+a {
+    color: rgb(96, 32, 142);
+        text-decoration: none;
+}
+
+main h1 {
+    color: LightCoral;
+}
+
+main h2, h3, p {
+    font-family:Bookman;
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.c {
+    color: rgb(120, 66, 25);
+    text-align: left;
+    font-weight: lighter;
+    font-size: 35px;
+}
+
+main h3 {
+    font-size: 35px;
+}
+.onel {
+    text-align: left;
+    font-weight: lighter;
+}
+main h1 {
+    margin: 60px;
+    border-bottom: 1px solid rgb(120, 66, 25);
+}
+main img {
+    text-align: center;
+}
+.sm {
+    text-align: left;
+    font-family:cursive;
+}
+footer {
+    background-color: #a98181;
+    padding: 20px;
+    border-radius: 10px;
+    border: 3px solid rgb(255, 200, 209);
+}
+footer p {
+   background-color:#a98181;
+    border-radius: 10px;
+    color: #fbd0d0;
+    font-family:serif;
+    padding: 1px;
+}
